@@ -91,9 +91,9 @@ async function displayAlbums() {
 			// Create the HTML for the album card using the fetched info.
 			cardContainer.innerHTML += `<div data-folder="${folder}" class="card">
 						<div class="imageContainer">
-							<img src="/songs/${folder}/cover.jpg" alt="${info.title} cover">
+							<img src="songs/${folder}/cover.jpg" alt="${info.title} cover">
 							<div class="playbutton">
-								<img src="/img/playbutton.svg" alt="playbutton">
+								<img src="img/playbutton.svg" alt="playbutton">
 							</div>
 						</div>
 						<h2>${info.title}</h2>
