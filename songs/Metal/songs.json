@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Nobody",
+        "artist": "Avenged Sevenfold",
+        "file": "Avenged Sevenfold - Nobody.mp3"
+    },
+    {
+        "title": "EXODUS",
+        "artist": "Brand of Sacrifice",
+        "file": "Brand of Sacrifice - EXODUS.mp3"
+    },
+	{
+        "title": "Panic Attack",
+        "artist": "Judas Priest",
+        "file": "Judas Priest - Panic Attack.mp3"
+    },
+    {
+        "title": "Freak On a Leash",
+        "artist": "Kom",
+        "file": "Korn - Freak On a Leash.mp3"
+    },
+	{
+        "title": "Too Far Gone",
+        "artist": "Metallica",
+        "file": "Metallica - Too Far Gone.mp3"
+    },
+    {
+        "title": "Slaughterhouse",
+        "artist": "MIW",
+        "file": "Motionless In White - Slaughterhouse (Feat. Bryan Garris).mp3"
+    },
+	{
+        "title": "Only Thing They Fear Is You",
+        "artist": "Mick Gordon",
+        "file": "The Only Thing They Fear Is You (Mick Gordon).mp3"
+    },
+	{
+        "title": "Abyss",
+        "artist": "UTA",
+        "file": "UNLEASH THE ARCHERS - Abyss.mp3"
+    },
+	{
+        "title": "What I've Done",
+        "artist": "Linkin Park",
+        "file": "What I've Done.mp3"
+    },
+	{
+        "title": "Wireless",
+        "artist": "Within Temptation",
+        "file": "Within Temptation - Wireless.mp3"
+    }
+]
